@@ -1,0 +1,9 @@
+#welcome to the tip calculator
+#first establish how much is the bill
+Bill=150
+#establish the numbner of people to split bill
+number_of_people_to_split=5
+#Equation for bill split
+bill_split=Bill/number_of_people_to_split
+#include the print function
+print(bill_split)
